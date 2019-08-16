@@ -1,0 +1,17 @@
+html, body {
+    margin:0;
+    padding: 0;
+}
+body {
+    max-width: 50rem;
+    margin: 0 auto;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    background:aliceblue
+}
+
+nav ul li {
+    padding: 5px
+}
